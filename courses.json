@@ -1,0 +1,27 @@
+[
+    {
+        "courseId":1,
+        "courseName": "Angular JS 1.x",
+        "coursePrice": 400.00
+    },
+    {
+        "courseId":2,
+        "courseName": "Angular JS 2.x",
+        "coursePrice": 500.00
+    },
+    {
+        "courseId":3,
+        "courseName": "React JS",
+        "coursePrice": 600.00
+    },
+    {
+        "courseId":4,
+        "courseName": "Backbone JS",
+        "coursePrice": 700.00
+    },
+    {
+        "courseId":5,
+        "courseName": "JavaScript",
+        "coursePrice": 800.00
+    }
+]
